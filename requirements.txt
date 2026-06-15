@@ -1,0 +1,15 @@
+langchain
+langchain-core
+langchain-openai
+langgraph
+duckdb
+pandas
+numpy
+scikit-learn
+statsmodels
+chromadb
+sentence-transformers
+streamlit
+plotly
+python-dotenv
+typing_extensions

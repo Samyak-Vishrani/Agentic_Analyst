@@ -1,0 +1,51 @@
+product_id,product_name,category,price
+1,Wireless Headphones,Electronics,299.99
+2,Mechanical Keyboard,Electronics,149.99
+3,USB-C Hub,Electronics,49.99
+4,4K Webcam,Electronics,119.99
+5,Laptop Stand,Electronics,59.99
+6,Noise-Cancelling Earbuds,Electronics,199.99
+7,Smart Speaker,Electronics,89.99
+8,Portable Charger,Electronics,39.99
+9,Dual Monitor Arm,Electronics,129.99
+10,External SSD 1TB,Electronics,109.99
+11,Running Shoes,Apparel,89.99
+12,Yoga Mat,Apparel,34.99
+13,Compression Socks,Apparel,14.99
+14,Hoodie,Apparel,59.99
+15,Sports Water Bottle,Apparel,24.99
+16,Gym Gloves,Apparel,19.99
+17,Resistance Bands Set,Apparel,29.99
+18,Running Cap,Apparel,22.99
+19,Cycling Shorts,Apparel,44.99
+20,Windbreaker Jacket,Apparel,79.99
+21,Office Chair,Office Supplies,499.99
+22,Notebook Set (5-pack),Office Supplies,19.99
+23,Desk Lamp,Office Supplies,44.99
+24,Whiteboard,Office Supplies,89.99
+25,Stapler Pro,Office Supplies,15.99
+26,Document Scanner,Office Supplies,229.99
+27,Ergonomic Mouse,Office Supplies,69.99
+28,Wrist Rest Pad,Office Supplies,18.99
+29,Cable Management Kit,Office Supplies,12.99
+30,Desk Organizer,Office Supplies,34.99
+31,Blender Pro,Home & Kitchen,79.99
+32,Air Fryer,Home & Kitchen,129.99
+33,Coffee Maker,Home & Kitchen,89.99
+34,Knife Set,Home & Kitchen,59.99
+35,Cutting Board,Home & Kitchen,24.99
+36,Meal Prep Containers,Home & Kitchen,29.99
+37,Electric Kettle,Home & Kitchen,45.99
+38,Non-Stick Pan Set,Home & Kitchen,69.99
+39,Food Scale,Home & Kitchen,19.99
+40,Vacuum Sealer,Home & Kitchen,74.99
+41,Vitamin C Supplements,Health,19.99
+42,Protein Powder 2kg,Health,49.99
+43,Foam Roller,Health,29.99
+44,First Aid Kit,Health,24.99
+45,Blood Pressure Monitor,Health,149.99
+46,Fitness Tracker,Health,99.99
+47,Meditation Cushion,Health,39.99
+48,Thermometer,Health,22.99
+49,Sunscreen SPF 50,Health,14.99
+50,Lip Balm Pack,Health,9.99
